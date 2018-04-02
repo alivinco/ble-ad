@@ -1,0 +1,11 @@
+{
+  "MqttClientIdPrefix": "inst1",
+  "MqttServerURI": "tcp://localhost:1883",
+  "MqttUsername": "",
+  "MqttPassword": "",
+  "MqttTopicGlobalPrefix":"",
+  "AdapterName": "",
+  "RetryCount": 10,
+  "DeviceAddresses": [],
+  "PoolInterval":60
+}
